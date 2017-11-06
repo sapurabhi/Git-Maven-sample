@@ -37,13 +37,13 @@
 	<repository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://52.66.106.91:8081/nexus/content/repositories/release/</url>
+		<url>http://http://localhost:8081/nexus/content/repositories/apache-snapshots/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://52.66.106.91:8081/nexus/content/repositories/snapshot/</url>
+		<url>http://http://localhost:8081/nexus/content/repositories/apache-snapshots/</url>
 	</snapshotRepository>
 
 </distributionManagement>
