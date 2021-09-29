@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World RefX! MAH-2--d:::: added from git local repo:::: added from remote,MOdifications from azaam system, karim repo changes);
+        System.out.println( "Hello World RefX! MAH-2--d:::: added from git local repo:::: added from Karim block);
 
         }
 }
